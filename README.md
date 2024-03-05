@@ -8,6 +8,11 @@ MoE Key Lab of Artificial Intelligence, SJTU AI Institute  <br>
 Shanghai Jiao Tong University, Shanghai, China <br>
 <sup>2</sup>Suzhou Laboratory, Suzhou, China
 
+<p align="center">
+<img src="https://github.com/HongchuanZeng/MBS/blob/main/mbs.png" width=100% height=100% 
+class="center">
+</p>
+
 
 MBS overcomes the English-centric limitations of existing methods by sampling calibration data from various languages proportionally to the language distribution of the model training datasets, uncovering the dynamics of language interaction during compression, revealing that the larger the proportion of a language in the training set and the more similar the language is to the calibration language, the better performance the language retains after compression.
 
