@@ -1,7 +1,7 @@
 # Multilingual Brain Surgeon: Large Language Models Can be Compressed Leaving No Language Behind
 Implementation of **MBS** (Multilingual Brain Surgeon), as presented in our paper:
 
-**Multilingual Brain Surgeon: Large Language Models Can be Compressed Leaving No Language Behind** </br>
+[**Multilingual Brain Surgeon: Large Language Models Can be Compressed Leaving No Language Behind**](https://arxiv.org/abs/2404.04748) </br>
 *Hongchuan Zeng<sup>1</sup>, Hongshen Xu<sup>1</sup>, Lu Chen<sup>1,2</sup>, Kai Yu<sup>1,2</sup>* <br>
 <sup>1</sup>X-LANCE Lab, Department of Computer Science and Engineering <br>
 MoE Key Lab of Artificial Intelligence, SJTU AI Institute  <br>
